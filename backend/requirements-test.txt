@@ -1,0 +1,2 @@
+# Additional test dependency for SQLite-based tests
+aiosqlite>=0.20.0
